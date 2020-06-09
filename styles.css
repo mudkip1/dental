@@ -1,0 +1,126 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #737373;
+}
+
+/* Headings */
+
+.big-heading {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.welcome-text {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+/* Containers */
+
+.container-fluid{
+  padding: 2% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #00918e;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Buttons */
+
+.dental-button {
+  margin: 5% 3% 5% 0;
+  padding: 1%;
+}
+
+/* Title Section */
+
+#title .container-fluid {
+  padding: 4% 10%;
+}
+
+/* Information */
+
+.information {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  line-height: 2;
+}
+
+.photo {
+  width: 250px;
+  margin-bottom: 2rem;
+}
+
+.photo-replacing-teeth {
+  width: 200px;
+  margin-bottom: 1.2rem;
+}
+
+.bold {
+  color: #6fb98f;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.icon {
+  color: #30e3ca;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #40514e;
+}
+
+
+hr {
+  border: dotted #e5e5e5 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 30px auto;
+}
+
+/* Footer Section */
+
+.footer {
+  color: #fff;
+  box-shadow: 0 50vh 0 50vh #00918e;
+  padding-top: 8%;
+}
+
+@media (max-width: 1028px) {
+
+
+}
